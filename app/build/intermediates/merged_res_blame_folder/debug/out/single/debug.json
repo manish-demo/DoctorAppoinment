@@ -1,0 +1,610 @@
+[
+    {
+        "merged": "/home/mobiweb/ManishChouhan/DoctorAppoinmentDemo/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_baseline_calendar_today_24.png.flat",
+        "source": "/home/mobiweb/ManishChouhan/DoctorAppoinmentDemo/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_baseline_calendar_today_24.png"
+    },
+    {
+        "merged": "/home/mobiweb/ManishChouhan/DoctorAppoinmentDemo/app/build/intermediates/res/merged/debug/drawable-ldpi_ic_baseline_calendar_today_24.png.flat",
+        "source": "/home/mobiweb/ManishChouhan/DoctorAppoinmentDemo/app/build/generated/res/pngs/debug/drawable-ldpi/ic_baseline_calendar_today_24.png"
+    },
+    {
+        "merged": "/home/mobiweb/ManishChouhan/DoctorAppoinmentDemo/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_baseline_location_on_24.png.flat",
+        "source": "/home/mobiweb/ManishChouhan/DoctorAppoinmentDemo/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_baseline_location_on_24.png"
+    },
+    {
+        "merged": "/home/mobiweb/ManishChouhan/DoctorAppoinmentDemo/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "/home/mobiweb/ManishChouhan/DoctorAppoinmentDemo/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/mobiweb/ManishChouhan/DoctorAppoinmentDemo/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_baseline_phone_android_24.png.flat",
+        "source": "/home/mobiweb/ManishChouhan/DoctorAppoinmentDemo/app/build/generated/res/pngs/debug/drawable-mdpi/ic_baseline_phone_android_24.png"
+    },
+    {
+        "merged": "/home/mobiweb/ManishChouhan/DoctorAppoinmentDemo/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_baseline_keyboard_arrow_up_24.png.flat",
+        "source": "/home/mobiweb/ManishChouhan/DoctorAppoinmentDemo/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_baseline_keyboard_arrow_up_24.png"
+    },
+    {
+        "merged": "/home/mobiweb/ManishChouhan/DoctorAppoinmentDemo/app/build/intermediates/res/merged/debug/layout_fragment_choose_time_slot.xml.flat",
+        "source": "/home/mobiweb/ManishChouhan/DoctorAppoinmentDemo/app/src/main/res/layout/fragment_choose_time_slot.xml"
+    },
+    {
+        "merged": "/home/mobiweb/ManishChouhan/DoctorAppoinmentDemo/app/build/intermediates/res/merged/debug/drawable_add.png.flat",
+        "source": "/home/mobiweb/ManishChouhan/DoctorAppoinmentDemo/app/src/main/res/drawable/add.png"
+    },
+    {
+        "merged": "/home/mobiweb/ManishChouhan/DoctorAppoinmentDemo/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_baseline_location_on_24.png.flat",
+        "source": "/home/mobiweb/ManishChouhan/DoctorAppoinmentDemo/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_baseline_location_on_24.png"
+    },
+    {
+        "merged": "/home/mobiweb/ManishChouhan/DoctorAppoinmentDemo/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_baseline_looks_5_24.png.flat",
+        "source": "/home/mobiweb/ManishChouhan/DoctorAppoinmentDemo/app/build/generated/res/pngs/debug/drawable-mdpi/ic_baseline_looks_5_24.png"
+    },
+    {
+        "merged": "/home/mobiweb/ManishChouhan/DoctorAppoinmentDemo/app/build/intermediates/res/merged/debug/drawable_header.jpg.flat",
+        "source": "/home/mobiweb/ManishChouhan/DoctorAppoinmentDemo/app/src/main/res/drawable/header.jpg"
+    },
+    {
+        "merged": "/home/mobiweb/ManishChouhan/DoctorAppoinmentDemo/app/build/intermediates/res/merged/debug/layout_activity_main.xml.flat",
+        "source": "/home/mobiweb/ManishChouhan/DoctorAppoinmentDemo/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/home/mobiweb/ManishChouhan/DoctorAppoinmentDemo/app/build/intermediates/res/merged/debug/layout_activity_home.xml.flat",
+        "source": "/home/mobiweb/ManishChouhan/DoctorAppoinmentDemo/app/src/main/res/layout/activity_home.xml"
+    },
+    {
+        "merged": "/home/mobiweb/ManishChouhan/DoctorAppoinmentDemo/app/build/intermediates/res/merged/debug/drawable-ldpi_ic_baseline_keyboard_arrow_up_24.png.flat",
+        "source": "/home/mobiweb/ManishChouhan/DoctorAppoinmentDemo/app/build/generated/res/pngs/debug/drawable-ldpi/ic_baseline_keyboard_arrow_up_24.png"
+    },
+    {
+        "merged": "/home/mobiweb/ManishChouhan/DoctorAppoinmentDemo/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_launcher_background.png.flat",
+        "source": "/home/mobiweb/ManishChouhan/DoctorAppoinmentDemo/app/build/generated/res/pngs/debug/drawable-mdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "/home/mobiweb/ManishChouhan/DoctorAppoinmentDemo/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_ic_baseline_person_24.xml.flat",
+        "source": "/home/mobiweb/ManishChouhan/DoctorAppoinmentDemo/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_baseline_person_24.xml"
+    },
+    {
+        "merged": "/home/mobiweb/ManishChouhan/DoctorAppoinmentDemo/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_baseline_search_24.png.flat",
+        "source": "/home/mobiweb/ManishChouhan/DoctorAppoinmentDemo/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_baseline_search_24.png"
+    },
+    {
+        "merged": "/home/mobiweb/ManishChouhan/DoctorAppoinmentDemo/app/build/intermediates/res/merged/debug/layout_activity_login.xml.flat",
+        "source": "/home/mobiweb/ManishChouhan/DoctorAppoinmentDemo/app/src/main/res/layout/activity_login.xml"
+    },
+    {
+        "merged": "/home/mobiweb/ManishChouhan/DoctorAppoinmentDemo/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_baseline_looks_5_24.png.flat",
+        "source": "/home/mobiweb/ManishChouhan/DoctorAppoinmentDemo/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_baseline_looks_5_24.png"
+    },
+    {
+        "merged": "/home/mobiweb/ManishChouhan/DoctorAppoinmentDemo/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "/home/mobiweb/ManishChouhan/DoctorAppoinmentDemo/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/mobiweb/ManishChouhan/DoctorAppoinmentDemo/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_baseline_filter_list_24.png.flat",
+        "source": "/home/mobiweb/ManishChouhan/DoctorAppoinmentDemo/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_baseline_filter_list_24.png"
+    },
+    {
+        "merged": "/home/mobiweb/ManishChouhan/DoctorAppoinmentDemo/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_launcher_background.png.flat",
+        "source": "/home/mobiweb/ManishChouhan/DoctorAppoinmentDemo/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "/home/mobiweb/ManishChouhan/DoctorAppoinmentDemo/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_ic_baseline_looks_6_24.xml.flat",
+        "source": "/home/mobiweb/ManishChouhan/DoctorAppoinmentDemo/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_baseline_looks_6_24.xml"
+    },
+    {
+        "merged": "/home/mobiweb/ManishChouhan/DoctorAppoinmentDemo/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_baseline_close_24.png.flat",
+        "source": "/home/mobiweb/ManishChouhan/DoctorAppoinmentDemo/app/build/generated/res/pngs/debug/drawable-mdpi/ic_baseline_close_24.png"
+    },
+    {
+        "merged": "/home/mobiweb/ManishChouhan/DoctorAppoinmentDemo/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_baseline_filter_list_24.png.flat",
+        "source": "/home/mobiweb/ManishChouhan/DoctorAppoinmentDemo/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_baseline_filter_list_24.png"
+    },
+    {
+        "merged": "/home/mobiweb/ManishChouhan/DoctorAppoinmentDemo/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "/home/mobiweb/ManishChouhan/DoctorAppoinmentDemo/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/mobiweb/ManishChouhan/DoctorAppoinmentDemo/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_baseline_location_on_24.png.flat",
+        "source": "/home/mobiweb/ManishChouhan/DoctorAppoinmentDemo/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_baseline_location_on_24.png"
+    },
+    {
+        "merged": "/home/mobiweb/ManishChouhan/DoctorAppoinmentDemo/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_baseline_looks_6_24.png.flat",
+        "source": "/home/mobiweb/ManishChouhan/DoctorAppoinmentDemo/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_baseline_looks_6_24.png"
+    },
+    {
+        "merged": "/home/mobiweb/ManishChouhan/DoctorAppoinmentDemo/app/build/intermediates/res/merged/debug/drawable-ldpi_ic_baseline_close_24.png.flat",
+        "source": "/home/mobiweb/ManishChouhan/DoctorAppoinmentDemo/app/build/generated/res/pngs/debug/drawable-ldpi/ic_baseline_close_24.png"
+    },
+    {
+        "merged": "/home/mobiweb/ManishChouhan/DoctorAppoinmentDemo/app/build/intermediates/res/merged/debug/drawable-ldpi_ic_baseline_looks_5_24.png.flat",
+        "source": "/home/mobiweb/ManishChouhan/DoctorAppoinmentDemo/app/build/generated/res/pngs/debug/drawable-ldpi/ic_baseline_looks_5_24.png"
+    },
+    {
+        "merged": "/home/mobiweb/ManishChouhan/DoctorAppoinmentDemo/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "/home/mobiweb/ManishChouhan/DoctorAppoinmentDemo/app/src/main/res/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/mobiweb/ManishChouhan/DoctorAppoinmentDemo/app/build/intermediates/res/merged/debug/layout_adapter_doctor_list.xml.flat",
+        "source": "/home/mobiweb/ManishChouhan/DoctorAppoinmentDemo/app/src/main/res/layout/adapter_doctor_list.xml"
+    },
+    {
+        "merged": "/home/mobiweb/ManishChouhan/DoctorAppoinmentDemo/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_baseline_close_24.png.flat",
+        "source": "/home/mobiweb/ManishChouhan/DoctorAppoinmentDemo/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_baseline_close_24.png"
+    },
+    {
+        "merged": "/home/mobiweb/ManishChouhan/DoctorAppoinmentDemo/app/build/intermediates/res/merged/debug/drawable-ldpi_ic_baseline_looks_6_24.png.flat",
+        "source": "/home/mobiweb/ManishChouhan/DoctorAppoinmentDemo/app/build/generated/res/pngs/debug/drawable-ldpi/ic_baseline_looks_6_24.png"
+    },
+    {
+        "merged": "/home/mobiweb/ManishChouhan/DoctorAppoinmentDemo/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_baseline_keyboard_arrow_up_24.png.flat",
+        "source": "/home/mobiweb/ManishChouhan/DoctorAppoinmentDemo/app/build/generated/res/pngs/debug/drawable-hdpi/ic_baseline_keyboard_arrow_up_24.png"
+    },
+    {
+        "merged": "/home/mobiweb/ManishChouhan/DoctorAppoinmentDemo/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_baseline_search_24.png.flat",
+        "source": "/home/mobiweb/ManishChouhan/DoctorAppoinmentDemo/app/build/generated/res/pngs/debug/drawable-hdpi/ic_baseline_search_24.png"
+    },
+    {
+        "merged": "/home/mobiweb/ManishChouhan/DoctorAppoinmentDemo/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_baseline_keyboard_arrow_up_24.png.flat",
+        "source": "/home/mobiweb/ManishChouhan/DoctorAppoinmentDemo/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_baseline_keyboard_arrow_up_24.png"
+    },
+    {
+        "merged": "/home/mobiweb/ManishChouhan/DoctorAppoinmentDemo/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_baseline_looks_6_24.png.flat",
+        "source": "/home/mobiweb/ManishChouhan/DoctorAppoinmentDemo/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_baseline_looks_6_24.png"
+    },
+    {
+        "merged": "/home/mobiweb/ManishChouhan/DoctorAppoinmentDemo/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "/home/mobiweb/ManishChouhan/DoctorAppoinmentDemo/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/mobiweb/ManishChouhan/DoctorAppoinmentDemo/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_baseline_calendar_today_24.png.flat",
+        "source": "/home/mobiweb/ManishChouhan/DoctorAppoinmentDemo/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_baseline_calendar_today_24.png"
+    },
+    {
+        "merged": "/home/mobiweb/ManishChouhan/DoctorAppoinmentDemo/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_baseline_lock_24.png.flat",
+        "source": "/home/mobiweb/ManishChouhan/DoctorAppoinmentDemo/app/build/generated/res/pngs/debug/drawable-mdpi/ic_baseline_lock_24.png"
+    },
+    {
+        "merged": "/home/mobiweb/ManishChouhan/DoctorAppoinmentDemo/app/build/intermediates/res/merged/debug/drawable-ldpi_ic_launcher_background.png.flat",
+        "source": "/home/mobiweb/ManishChouhan/DoctorAppoinmentDemo/app/build/generated/res/pngs/debug/drawable-ldpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "/home/mobiweb/ManishChouhan/DoctorAppoinmentDemo/app/build/intermediates/res/merged/debug/drawable_live.png.flat",
+        "source": "/home/mobiweb/ManishChouhan/DoctorAppoinmentDemo/app/src/main/res/drawable/live.png"
+    },
+    {
+        "merged": "/home/mobiweb/ManishChouhan/DoctorAppoinmentDemo/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_baseline_history_24.png.flat",
+        "source": "/home/mobiweb/ManishChouhan/DoctorAppoinmentDemo/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_baseline_history_24.png"
+    },
+    {
+        "merged": "/home/mobiweb/ManishChouhan/DoctorAppoinmentDemo/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_baseline_lock_24.png.flat",
+        "source": "/home/mobiweb/ManishChouhan/DoctorAppoinmentDemo/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_baseline_lock_24.png"
+    },
+    {
+        "merged": "/home/mobiweb/ManishChouhan/DoctorAppoinmentDemo/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_baseline_location_on_24.png.flat",
+        "source": "/home/mobiweb/ManishChouhan/DoctorAppoinmentDemo/app/build/generated/res/pngs/debug/drawable-hdpi/ic_baseline_location_on_24.png"
+    },
+    {
+        "merged": "/home/mobiweb/ManishChouhan/DoctorAppoinmentDemo/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_ic_baseline_filter_list_24.xml.flat",
+        "source": "/home/mobiweb/ManishChouhan/DoctorAppoinmentDemo/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_baseline_filter_list_24.xml"
+    },
+    {
+        "merged": "/home/mobiweb/ManishChouhan/DoctorAppoinmentDemo/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_baseline_history_24.png.flat",
+        "source": "/home/mobiweb/ManishChouhan/DoctorAppoinmentDemo/app/build/generated/res/pngs/debug/drawable-hdpi/ic_baseline_history_24.png"
+    },
+    {
+        "merged": "/home/mobiweb/ManishChouhan/DoctorAppoinmentDemo/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_baseline_person_24.png.flat",
+        "source": "/home/mobiweb/ManishChouhan/DoctorAppoinmentDemo/app/build/generated/res/pngs/debug/drawable-mdpi/ic_baseline_person_24.png"
+    },
+    {
+        "merged": "/home/mobiweb/ManishChouhan/DoctorAppoinmentDemo/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "/home/mobiweb/ManishChouhan/DoctorAppoinmentDemo/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/mobiweb/ManishChouhan/DoctorAppoinmentDemo/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_baseline_filter_list_24.png.flat",
+        "source": "/home/mobiweb/ManishChouhan/DoctorAppoinmentDemo/app/build/generated/res/pngs/debug/drawable-mdpi/ic_baseline_filter_list_24.png"
+    },
+    {
+        "merged": "/home/mobiweb/ManishChouhan/DoctorAppoinmentDemo/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_baseline_filter_list_24.png.flat",
+        "source": "/home/mobiweb/ManishChouhan/DoctorAppoinmentDemo/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_baseline_filter_list_24.png"
+    },
+    {
+        "merged": "/home/mobiweb/ManishChouhan/DoctorAppoinmentDemo/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_baseline_email_24.png.flat",
+        "source": "/home/mobiweb/ManishChouhan/DoctorAppoinmentDemo/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_baseline_email_24.png"
+    },
+    {
+        "merged": "/home/mobiweb/ManishChouhan/DoctorAppoinmentDemo/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_baseline_lock_24.png.flat",
+        "source": "/home/mobiweb/ManishChouhan/DoctorAppoinmentDemo/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_baseline_lock_24.png"
+    },
+    {
+        "merged": "/home/mobiweb/ManishChouhan/DoctorAppoinmentDemo/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_baseline_looks_5_24.png.flat",
+        "source": "/home/mobiweb/ManishChouhan/DoctorAppoinmentDemo/app/build/generated/res/pngs/debug/drawable-hdpi/ic_baseline_looks_5_24.png"
+    },
+    {
+        "merged": "/home/mobiweb/ManishChouhan/DoctorAppoinmentDemo/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_ic_baseline_history_24.xml.flat",
+        "source": "/home/mobiweb/ManishChouhan/DoctorAppoinmentDemo/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_baseline_history_24.xml"
+    },
+    {
+        "merged": "/home/mobiweb/ManishChouhan/DoctorAppoinmentDemo/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_ic_baseline_email_24.xml.flat",
+        "source": "/home/mobiweb/ManishChouhan/DoctorAppoinmentDemo/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_baseline_email_24.xml"
+    },
+    {
+        "merged": "/home/mobiweb/ManishChouhan/DoctorAppoinmentDemo/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_baseline_keyboard_arrow_up_24.png.flat",
+        "source": "/home/mobiweb/ManishChouhan/DoctorAppoinmentDemo/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_baseline_keyboard_arrow_up_24.png"
+    },
+    {
+        "merged": "/home/mobiweb/ManishChouhan/DoctorAppoinmentDemo/app/build/intermediates/res/merged/debug/layout_custom_tab.xml.flat",
+        "source": "/home/mobiweb/ManishChouhan/DoctorAppoinmentDemo/app/src/main/res/layout/custom_tab.xml"
+    },
+    {
+        "merged": "/home/mobiweb/ManishChouhan/DoctorAppoinmentDemo/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_baseline_email_24.png.flat",
+        "source": "/home/mobiweb/ManishChouhan/DoctorAppoinmentDemo/app/build/generated/res/pngs/debug/drawable-mdpi/ic_baseline_email_24.png"
+    },
+    {
+        "merged": "/home/mobiweb/ManishChouhan/DoctorAppoinmentDemo/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_baseline_email_24.png.flat",
+        "source": "/home/mobiweb/ManishChouhan/DoctorAppoinmentDemo/app/build/generated/res/pngs/debug/drawable-hdpi/ic_baseline_email_24.png"
+    },
+    {
+        "merged": "/home/mobiweb/ManishChouhan/DoctorAppoinmentDemo/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_baseline_calendar_today_24.png.flat",
+        "source": "/home/mobiweb/ManishChouhan/DoctorAppoinmentDemo/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_baseline_calendar_today_24.png"
+    },
+    {
+        "merged": "/home/mobiweb/ManishChouhan/DoctorAppoinmentDemo/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_baseline_history_24.png.flat",
+        "source": "/home/mobiweb/ManishChouhan/DoctorAppoinmentDemo/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_baseline_history_24.png"
+    },
+    {
+        "merged": "/home/mobiweb/ManishChouhan/DoctorAppoinmentDemo/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_baseline_arrow_back_24.png.flat",
+        "source": "/home/mobiweb/ManishChouhan/DoctorAppoinmentDemo/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_baseline_arrow_back_24.png"
+    },
+    {
+        "merged": "/home/mobiweb/ManishChouhan/DoctorAppoinmentDemo/app/build/intermediates/res/merged/debug/layout_layout_progress_bar.xml.flat",
+        "source": "/home/mobiweb/ManishChouhan/DoctorAppoinmentDemo/app/src/main/res/layout/layout_progress_bar.xml"
+    },
+    {
+        "merged": "/home/mobiweb/ManishChouhan/DoctorAppoinmentDemo/app/build/intermediates/res/merged/debug/layout_dummy_fragment.xml.flat",
+        "source": "/home/mobiweb/ManishChouhan/DoctorAppoinmentDemo/app/src/main/res/layout/dummy_fragment.xml"
+    },
+    {
+        "merged": "/home/mobiweb/ManishChouhan/DoctorAppoinmentDemo/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_baseline_arrow_back_24.png.flat",
+        "source": "/home/mobiweb/ManishChouhan/DoctorAppoinmentDemo/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_baseline_arrow_back_24.png"
+    },
+    {
+        "merged": "/home/mobiweb/ManishChouhan/DoctorAppoinmentDemo/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_baseline_lock_24.png.flat",
+        "source": "/home/mobiweb/ManishChouhan/DoctorAppoinmentDemo/app/build/generated/res/pngs/debug/drawable-hdpi/ic_baseline_lock_24.png"
+    },
+    {
+        "merged": "/home/mobiweb/ManishChouhan/DoctorAppoinmentDemo/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_baseline_looks_5_24.png.flat",
+        "source": "/home/mobiweb/ManishChouhan/DoctorAppoinmentDemo/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_baseline_looks_5_24.png"
+    },
+    {
+        "merged": "/home/mobiweb/ManishChouhan/DoctorAppoinmentDemo/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_baseline_person_24.png.flat",
+        "source": "/home/mobiweb/ManishChouhan/DoctorAppoinmentDemo/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_baseline_person_24.png"
+    },
+    {
+        "merged": "/home/mobiweb/ManishChouhan/DoctorAppoinmentDemo/app/build/intermediates/res/merged/debug/drawable_doc_avatar.jpg.flat",
+        "source": "/home/mobiweb/ManishChouhan/DoctorAppoinmentDemo/app/src/main/res/drawable/doc_avatar.jpg"
+    },
+    {
+        "merged": "/home/mobiweb/ManishChouhan/DoctorAppoinmentDemo/app/build/intermediates/res/merged/debug/drawable-ldpi_ic_baseline_lock_24.png.flat",
+        "source": "/home/mobiweb/ManishChouhan/DoctorAppoinmentDemo/app/build/generated/res/pngs/debug/drawable-ldpi/ic_baseline_lock_24.png"
+    },
+    {
+        "merged": "/home/mobiweb/ManishChouhan/DoctorAppoinmentDemo/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_baseline_person_24.png.flat",
+        "source": "/home/mobiweb/ManishChouhan/DoctorAppoinmentDemo/app/build/generated/res/pngs/debug/drawable-hdpi/ic_baseline_person_24.png"
+    },
+    {
+        "merged": "/home/mobiweb/ManishChouhan/DoctorAppoinmentDemo/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_baseline_arrow_back_24.png.flat",
+        "source": "/home/mobiweb/ManishChouhan/DoctorAppoinmentDemo/app/build/generated/res/pngs/debug/drawable-hdpi/ic_baseline_arrow_back_24.png"
+    },
+    {
+        "merged": "/home/mobiweb/ManishChouhan/DoctorAppoinmentDemo/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_baseline_person_24.png.flat",
+        "source": "/home/mobiweb/ManishChouhan/DoctorAppoinmentDemo/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_baseline_person_24.png"
+    },
+    {
+        "merged": "/home/mobiweb/ManishChouhan/DoctorAppoinmentDemo/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_baseline_phone_android_24.png.flat",
+        "source": "/home/mobiweb/ManishChouhan/DoctorAppoinmentDemo/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_baseline_phone_android_24.png"
+    },
+    {
+        "merged": "/home/mobiweb/ManishChouhan/DoctorAppoinmentDemo/app/build/intermediates/res/merged/debug/drawable-ldpi_ic_baseline_phone_android_24.png.flat",
+        "source": "/home/mobiweb/ManishChouhan/DoctorAppoinmentDemo/app/build/generated/res/pngs/debug/drawable-ldpi/ic_baseline_phone_android_24.png"
+    },
+    {
+        "merged": "/home/mobiweb/ManishChouhan/DoctorAppoinmentDemo/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "/home/mobiweb/ManishChouhan/DoctorAppoinmentDemo/app/src/main/res/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/mobiweb/ManishChouhan/DoctorAppoinmentDemo/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_ic_baseline_photo_camera_24.xml.flat",
+        "source": "/home/mobiweb/ManishChouhan/DoctorAppoinmentDemo/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_baseline_photo_camera_24.xml"
+    },
+    {
+        "merged": "/home/mobiweb/ManishChouhan/DoctorAppoinmentDemo/app/build/intermediates/res/merged/debug/drawable-ldpi_ic_baseline_arrow_back_24.png.flat",
+        "source": "/home/mobiweb/ManishChouhan/DoctorAppoinmentDemo/app/build/generated/res/pngs/debug/drawable-ldpi/ic_baseline_arrow_back_24.png"
+    },
+    {
+        "merged": "/home/mobiweb/ManishChouhan/DoctorAppoinmentDemo/app/build/intermediates/res/merged/debug/drawable-ldpi_ic_baseline_search_24.png.flat",
+        "source": "/home/mobiweb/ManishChouhan/DoctorAppoinmentDemo/app/build/generated/res/pngs/debug/drawable-ldpi/ic_baseline_search_24.png"
+    },
+    {
+        "merged": "/home/mobiweb/ManishChouhan/DoctorAppoinmentDemo/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_baseline_arrow_back_24.png.flat",
+        "source": "/home/mobiweb/ManishChouhan/DoctorAppoinmentDemo/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_baseline_arrow_back_24.png"
+    },
+    {
+        "merged": "/home/mobiweb/ManishChouhan/DoctorAppoinmentDemo/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_ic_baseline_lock_24.xml.flat",
+        "source": "/home/mobiweb/ManishChouhan/DoctorAppoinmentDemo/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_baseline_lock_24.xml"
+    },
+    {
+        "merged": "/home/mobiweb/ManishChouhan/DoctorAppoinmentDemo/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_baseline_history_24.png.flat",
+        "source": "/home/mobiweb/ManishChouhan/DoctorAppoinmentDemo/app/build/generated/res/pngs/debug/drawable-mdpi/ic_baseline_history_24.png"
+    },
+    {
+        "merged": "/home/mobiweb/ManishChouhan/DoctorAppoinmentDemo/app/build/intermediates/res/merged/debug/layout_adapter_time_slot.xml.flat",
+        "source": "/home/mobiweb/ManishChouhan/DoctorAppoinmentDemo/app/src/main/res/layout/adapter_time_slot.xml"
+    },
+    {
+        "merged": "/home/mobiweb/ManishChouhan/DoctorAppoinmentDemo/app/build/intermediates/res/merged/debug/drawable_layout_shape.xml.flat",
+        "source": "/home/mobiweb/ManishChouhan/DoctorAppoinmentDemo/app/src/main/res/drawable/layout_shape.xml"
+    },
+    {
+        "merged": "/home/mobiweb/ManishChouhan/DoctorAppoinmentDemo/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_baseline_phone_android_24.png.flat",
+        "source": "/home/mobiweb/ManishChouhan/DoctorAppoinmentDemo/app/build/generated/res/pngs/debug/drawable-hdpi/ic_baseline_phone_android_24.png"
+    },
+    {
+        "merged": "/home/mobiweb/ManishChouhan/DoctorAppoinmentDemo/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_baseline_looks_6_24.png.flat",
+        "source": "/home/mobiweb/ManishChouhan/DoctorAppoinmentDemo/app/build/generated/res/pngs/debug/drawable-hdpi/ic_baseline_looks_6_24.png"
+    },
+    {
+        "merged": "/home/mobiweb/ManishChouhan/DoctorAppoinmentDemo/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_baseline_phone_android_24.png.flat",
+        "source": "/home/mobiweb/ManishChouhan/DoctorAppoinmentDemo/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_baseline_phone_android_24.png"
+    },
+    {
+        "merged": "/home/mobiweb/ManishChouhan/DoctorAppoinmentDemo/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_baseline_calendar_today_24.png.flat",
+        "source": "/home/mobiweb/ManishChouhan/DoctorAppoinmentDemo/app/build/generated/res/pngs/debug/drawable-mdpi/ic_baseline_calendar_today_24.png"
+    },
+    {
+        "merged": "/home/mobiweb/ManishChouhan/DoctorAppoinmentDemo/app/build/intermediates/res/merged/debug/layout_spinnertype.xml.flat",
+        "source": "/home/mobiweb/ManishChouhan/DoctorAppoinmentDemo/app/src/main/res/layout/spinnertype.xml"
+    },
+    {
+        "merged": "/home/mobiweb/ManishChouhan/DoctorAppoinmentDemo/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_baseline_photo_camera_24.png.flat",
+        "source": "/home/mobiweb/ManishChouhan/DoctorAppoinmentDemo/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_baseline_photo_camera_24.png"
+    },
+    {
+        "merged": "/home/mobiweb/ManishChouhan/DoctorAppoinmentDemo/app/build/intermediates/res/merged/debug/drawable_camera.png.flat",
+        "source": "/home/mobiweb/ManishChouhan/DoctorAppoinmentDemo/app/src/main/res/drawable/camera.png"
+    },
+    {
+        "merged": "/home/mobiweb/ManishChouhan/DoctorAppoinmentDemo/app/build/intermediates/res/merged/debug/drawable-ldpi_ic_baseline_filter_list_24.png.flat",
+        "source": "/home/mobiweb/ManishChouhan/DoctorAppoinmentDemo/app/build/generated/res/pngs/debug/drawable-ldpi/ic_baseline_filter_list_24.png"
+    },
+    {
+        "merged": "/home/mobiweb/ManishChouhan/DoctorAppoinmentDemo/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_ic_launcher_background.xml.flat",
+        "source": "/home/mobiweb/ManishChouhan/DoctorAppoinmentDemo/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_launcher_background.xml"
+    },
+    {
+        "merged": "/home/mobiweb/ManishChouhan/DoctorAppoinmentDemo/app/build/intermediates/res/merged/debug/drawable_bookmark.png.flat",
+        "source": "/home/mobiweb/ManishChouhan/DoctorAppoinmentDemo/app/src/main/res/drawable/bookmark.png"
+    },
+    {
+        "merged": "/home/mobiweb/ManishChouhan/DoctorAppoinmentDemo/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_baseline_search_24.png.flat",
+        "source": "/home/mobiweb/ManishChouhan/DoctorAppoinmentDemo/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_baseline_search_24.png"
+    },
+    {
+        "merged": "/home/mobiweb/ManishChouhan/DoctorAppoinmentDemo/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_ic_baseline_looks_5_24.xml.flat",
+        "source": "/home/mobiweb/ManishChouhan/DoctorAppoinmentDemo/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_baseline_looks_5_24.xml"
+    },
+    {
+        "merged": "/home/mobiweb/ManishChouhan/DoctorAppoinmentDemo/app/build/intermediates/res/merged/debug/drawable-ldpi_ic_baseline_photo_camera_24.png.flat",
+        "source": "/home/mobiweb/ManishChouhan/DoctorAppoinmentDemo/app/build/generated/res/pngs/debug/drawable-ldpi/ic_baseline_photo_camera_24.png"
+    },
+    {
+        "merged": "/home/mobiweb/ManishChouhan/DoctorAppoinmentDemo/app/build/intermediates/res/merged/debug/layout_activity_sign_up.xml.flat",
+        "source": "/home/mobiweb/ManishChouhan/DoctorAppoinmentDemo/app/src/main/res/layout/activity_sign_up.xml"
+    },
+    {
+        "merged": "/home/mobiweb/ManishChouhan/DoctorAppoinmentDemo/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_baseline_phone_android_24.png.flat",
+        "source": "/home/mobiweb/ManishChouhan/DoctorAppoinmentDemo/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_baseline_phone_android_24.png"
+    },
+    {
+        "merged": "/home/mobiweb/ManishChouhan/DoctorAppoinmentDemo/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_baseline_photo_camera_24.png.flat",
+        "source": "/home/mobiweb/ManishChouhan/DoctorAppoinmentDemo/app/build/generated/res/pngs/debug/drawable-mdpi/ic_baseline_photo_camera_24.png"
+    },
+    {
+        "merged": "/home/mobiweb/ManishChouhan/DoctorAppoinmentDemo/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_baseline_search_24.png.flat",
+        "source": "/home/mobiweb/ManishChouhan/DoctorAppoinmentDemo/app/build/generated/res/pngs/debug/drawable-mdpi/ic_baseline_search_24.png"
+    },
+    {
+        "merged": "/home/mobiweb/ManishChouhan/DoctorAppoinmentDemo/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "/home/mobiweb/ManishChouhan/DoctorAppoinmentDemo/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/mobiweb/ManishChouhan/DoctorAppoinmentDemo/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_baseline_close_24.png.flat",
+        "source": "/home/mobiweb/ManishChouhan/DoctorAppoinmentDemo/app/build/generated/res/pngs/debug/drawable-hdpi/ic_baseline_close_24.png"
+    },
+    {
+        "merged": "/home/mobiweb/ManishChouhan/DoctorAppoinmentDemo/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_baseline_photo_camera_24.png.flat",
+        "source": "/home/mobiweb/ManishChouhan/DoctorAppoinmentDemo/app/build/generated/res/pngs/debug/drawable-hdpi/ic_baseline_photo_camera_24.png"
+    },
+    {
+        "merged": "/home/mobiweb/ManishChouhan/DoctorAppoinmentDemo/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_baseline_close_24.png.flat",
+        "source": "/home/mobiweb/ManishChouhan/DoctorAppoinmentDemo/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_baseline_close_24.png"
+    },
+    {
+        "merged": "/home/mobiweb/ManishChouhan/DoctorAppoinmentDemo/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_launcher_background.png.flat",
+        "source": "/home/mobiweb/ManishChouhan/DoctorAppoinmentDemo/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "/home/mobiweb/ManishChouhan/DoctorAppoinmentDemo/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_baseline_looks_5_24.png.flat",
+        "source": "/home/mobiweb/ManishChouhan/DoctorAppoinmentDemo/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_baseline_looks_5_24.png"
+    },
+    {
+        "merged": "/home/mobiweb/ManishChouhan/DoctorAppoinmentDemo/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_baseline_photo_camera_24.png.flat",
+        "source": "/home/mobiweb/ManishChouhan/DoctorAppoinmentDemo/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_baseline_photo_camera_24.png"
+    },
+    {
+        "merged": "/home/mobiweb/ManishChouhan/DoctorAppoinmentDemo/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_baseline_search_24.png.flat",
+        "source": "/home/mobiweb/ManishChouhan/DoctorAppoinmentDemo/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_baseline_search_24.png"
+    },
+    {
+        "merged": "/home/mobiweb/ManishChouhan/DoctorAppoinmentDemo/app/build/intermediates/res/merged/debug/drawable-ldpi_ic_baseline_location_on_24.png.flat",
+        "source": "/home/mobiweb/ManishChouhan/DoctorAppoinmentDemo/app/build/generated/res/pngs/debug/drawable-ldpi/ic_baseline_location_on_24.png"
+    },
+    {
+        "merged": "/home/mobiweb/ManishChouhan/DoctorAppoinmentDemo/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/home/mobiweb/ManishChouhan/DoctorAppoinmentDemo/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/home/mobiweb/ManishChouhan/DoctorAppoinmentDemo/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_baseline_photo_camera_24.png.flat",
+        "source": "/home/mobiweb/ManishChouhan/DoctorAppoinmentDemo/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_baseline_photo_camera_24.png"
+    },
+    {
+        "merged": "/home/mobiweb/ManishChouhan/DoctorAppoinmentDemo/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_baseline_email_24.png.flat",
+        "source": "/home/mobiweb/ManishChouhan/DoctorAppoinmentDemo/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_baseline_email_24.png"
+    },
+    {
+        "merged": "/home/mobiweb/ManishChouhan/DoctorAppoinmentDemo/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_baseline_arrow_back_24.png.flat",
+        "source": "/home/mobiweb/ManishChouhan/DoctorAppoinmentDemo/app/build/generated/res/pngs/debug/drawable-mdpi/ic_baseline_arrow_back_24.png"
+    },
+    {
+        "merged": "/home/mobiweb/ManishChouhan/DoctorAppoinmentDemo/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_baseline_email_24.png.flat",
+        "source": "/home/mobiweb/ManishChouhan/DoctorAppoinmentDemo/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_baseline_email_24.png"
+    },
+    {
+        "merged": "/home/mobiweb/ManishChouhan/DoctorAppoinmentDemo/app/build/intermediates/res/merged/debug/drawable_card.jpeg.flat",
+        "source": "/home/mobiweb/ManishChouhan/DoctorAppoinmentDemo/app/src/main/res/drawable/card.jpeg"
+    },
+    {
+        "merged": "/home/mobiweb/ManishChouhan/DoctorAppoinmentDemo/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "/home/mobiweb/ManishChouhan/DoctorAppoinmentDemo/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/mobiweb/ManishChouhan/DoctorAppoinmentDemo/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_baseline_lock_24.png.flat",
+        "source": "/home/mobiweb/ManishChouhan/DoctorAppoinmentDemo/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_baseline_lock_24.png"
+    },
+    {
+        "merged": "/home/mobiweb/ManishChouhan/DoctorAppoinmentDemo/app/build/intermediates/res/merged/debug/drawable_shadow.xml.flat",
+        "source": "/home/mobiweb/ManishChouhan/DoctorAppoinmentDemo/app/src/main/res/drawable/shadow.xml"
+    },
+    {
+        "merged": "/home/mobiweb/ManishChouhan/DoctorAppoinmentDemo/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_ic_baseline_phone_android_24.xml.flat",
+        "source": "/home/mobiweb/ManishChouhan/DoctorAppoinmentDemo/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_baseline_phone_android_24.xml"
+    },
+    {
+        "merged": "/home/mobiweb/ManishChouhan/DoctorAppoinmentDemo/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_ic_baseline_close_24.xml.flat",
+        "source": "/home/mobiweb/ManishChouhan/DoctorAppoinmentDemo/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_baseline_close_24.xml"
+    },
+    {
+        "merged": "/home/mobiweb/ManishChouhan/DoctorAppoinmentDemo/app/build/intermediates/res/merged/debug/layout_activity_time_slot.xml.flat",
+        "source": "/home/mobiweb/ManishChouhan/DoctorAppoinmentDemo/app/src/main/res/layout/activity_time_slot.xml"
+    },
+    {
+        "merged": "/home/mobiweb/ManishChouhan/DoctorAppoinmentDemo/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_baseline_looks_6_24.png.flat",
+        "source": "/home/mobiweb/ManishChouhan/DoctorAppoinmentDemo/app/build/generated/res/pngs/debug/drawable-mdpi/ic_baseline_looks_6_24.png"
+    },
+    {
+        "merged": "/home/mobiweb/ManishChouhan/DoctorAppoinmentDemo/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_ic_baseline_calendar_today_24.xml.flat",
+        "source": "/home/mobiweb/ManishChouhan/DoctorAppoinmentDemo/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_baseline_calendar_today_24.xml"
+    },
+    {
+        "merged": "/home/mobiweb/ManishChouhan/DoctorAppoinmentDemo/app/build/intermediates/res/merged/debug/drawable_user.png.flat",
+        "source": "/home/mobiweb/ManishChouhan/DoctorAppoinmentDemo/app/src/main/res/drawable/user.png"
+    },
+    {
+        "merged": "/home/mobiweb/ManishChouhan/DoctorAppoinmentDemo/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_baseline_close_24.png.flat",
+        "source": "/home/mobiweb/ManishChouhan/DoctorAppoinmentDemo/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_baseline_close_24.png"
+    },
+    {
+        "merged": "/home/mobiweb/ManishChouhan/DoctorAppoinmentDemo/app/build/intermediates/res/merged/debug/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "/home/mobiweb/ManishChouhan/DoctorAppoinmentDemo/app/build/generated/res/pngs/debug/drawable-anydpi-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "/home/mobiweb/ManishChouhan/DoctorAppoinmentDemo/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_ic_baseline_arrow_back_24.xml.flat",
+        "source": "/home/mobiweb/ManishChouhan/DoctorAppoinmentDemo/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_baseline_arrow_back_24.xml"
+    },
+    {
+        "merged": "/home/mobiweb/ManishChouhan/DoctorAppoinmentDemo/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_baseline_calendar_today_24.png.flat",
+        "source": "/home/mobiweb/ManishChouhan/DoctorAppoinmentDemo/app/build/generated/res/pngs/debug/drawable-hdpi/ic_baseline_calendar_today_24.png"
+    },
+    {
+        "merged": "/home/mobiweb/ManishChouhan/DoctorAppoinmentDemo/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_baseline_filter_list_24.png.flat",
+        "source": "/home/mobiweb/ManishChouhan/DoctorAppoinmentDemo/app/build/generated/res/pngs/debug/drawable-hdpi/ic_baseline_filter_list_24.png"
+    },
+    {
+        "merged": "/home/mobiweb/ManishChouhan/DoctorAppoinmentDemo/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_launcher_background.png.flat",
+        "source": "/home/mobiweb/ManishChouhan/DoctorAppoinmentDemo/app/build/generated/res/pngs/debug/drawable-hdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "/home/mobiweb/ManishChouhan/DoctorAppoinmentDemo/app/build/intermediates/res/merged/debug/drawable-ldpi_ic_baseline_email_24.png.flat",
+        "source": "/home/mobiweb/ManishChouhan/DoctorAppoinmentDemo/app/build/generated/res/pngs/debug/drawable-ldpi/ic_baseline_email_24.png"
+    },
+    {
+        "merged": "/home/mobiweb/ManishChouhan/DoctorAppoinmentDemo/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "/home/mobiweb/ManishChouhan/DoctorAppoinmentDemo/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/mobiweb/ManishChouhan/DoctorAppoinmentDemo/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_baseline_location_on_24.png.flat",
+        "source": "/home/mobiweb/ManishChouhan/DoctorAppoinmentDemo/app/build/generated/res/pngs/debug/drawable-mdpi/ic_baseline_location_on_24.png"
+    },
+    {
+        "merged": "/home/mobiweb/ManishChouhan/DoctorAppoinmentDemo/app/build/intermediates/res/merged/debug/drawable-ldpi_ic_baseline_person_24.png.flat",
+        "source": "/home/mobiweb/ManishChouhan/DoctorAppoinmentDemo/app/build/generated/res/pngs/debug/drawable-ldpi/ic_baseline_person_24.png"
+    },
+    {
+        "merged": "/home/mobiweb/ManishChouhan/DoctorAppoinmentDemo/app/build/intermediates/res/merged/debug/drawable-ldpi_ic_baseline_history_24.png.flat",
+        "source": "/home/mobiweb/ManishChouhan/DoctorAppoinmentDemo/app/build/generated/res/pngs/debug/drawable-ldpi/ic_baseline_history_24.png"
+    },
+    {
+        "merged": "/home/mobiweb/ManishChouhan/DoctorAppoinmentDemo/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_baseline_keyboard_arrow_up_24.png.flat",
+        "source": "/home/mobiweb/ManishChouhan/DoctorAppoinmentDemo/app/build/generated/res/pngs/debug/drawable-mdpi/ic_baseline_keyboard_arrow_up_24.png"
+    },
+    {
+        "merged": "/home/mobiweb/ManishChouhan/DoctorAppoinmentDemo/app/build/intermediates/res/merged/debug/drawable_doctor.png.flat",
+        "source": "/home/mobiweb/ManishChouhan/DoctorAppoinmentDemo/app/src/main/res/drawable/doctor.png"
+    },
+    {
+        "merged": "/home/mobiweb/ManishChouhan/DoctorAppoinmentDemo/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_baseline_person_24.png.flat",
+        "source": "/home/mobiweb/ManishChouhan/DoctorAppoinmentDemo/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_baseline_person_24.png"
+    },
+    {
+        "merged": "/home/mobiweb/ManishChouhan/DoctorAppoinmentDemo/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_ic_baseline_search_24.xml.flat",
+        "source": "/home/mobiweb/ManishChouhan/DoctorAppoinmentDemo/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_baseline_search_24.xml"
+    },
+    {
+        "merged": "/home/mobiweb/ManishChouhan/DoctorAppoinmentDemo/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_ic_baseline_location_on_24.xml.flat",
+        "source": "/home/mobiweb/ManishChouhan/DoctorAppoinmentDemo/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_baseline_location_on_24.xml"
+    },
+    {
+        "merged": "/home/mobiweb/ManishChouhan/DoctorAppoinmentDemo/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/home/mobiweb/ManishChouhan/DoctorAppoinmentDemo/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "/home/mobiweb/ManishChouhan/DoctorAppoinmentDemo/app/build/intermediates/res/merged/debug/layout_fragment_doctor_list.xml.flat",
+        "source": "/home/mobiweb/ManishChouhan/DoctorAppoinmentDemo/app/src/main/res/layout/fragment_doctor_list.xml"
+    },
+    {
+        "merged": "/home/mobiweb/ManishChouhan/DoctorAppoinmentDemo/app/build/intermediates/res/merged/debug/drawable_seekbar_win_percentage_drawable.xml.flat",
+        "source": "/home/mobiweb/ManishChouhan/DoctorAppoinmentDemo/app/src/main/res/drawable/seekbar_win_percentage_drawable.xml"
+    },
+    {
+        "merged": "/home/mobiweb/ManishChouhan/DoctorAppoinmentDemo/app/build/intermediates/res/merged/debug/layout_fragment_profile.xml.flat",
+        "source": "/home/mobiweb/ManishChouhan/DoctorAppoinmentDemo/app/src/main/res/layout/fragment_profile.xml"
+    },
+    {
+        "merged": "/home/mobiweb/ManishChouhan/DoctorAppoinmentDemo/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_launcher_background.png.flat",
+        "source": "/home/mobiweb/ManishChouhan/DoctorAppoinmentDemo/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "/home/mobiweb/ManishChouhan/DoctorAppoinmentDemo/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_baseline_history_24.png.flat",
+        "source": "/home/mobiweb/ManishChouhan/DoctorAppoinmentDemo/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_baseline_history_24.png"
+    },
+    {
+        "merged": "/home/mobiweb/ManishChouhan/DoctorAppoinmentDemo/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_ic_baseline_keyboard_arrow_up_24.xml.flat",
+        "source": "/home/mobiweb/ManishChouhan/DoctorAppoinmentDemo/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_baseline_keyboard_arrow_up_24.xml"
+    },
+    {
+        "merged": "/home/mobiweb/ManishChouhan/DoctorAppoinmentDemo/app/build/intermediates/res/merged/debug/drawable_stethoscope.png.flat",
+        "source": "/home/mobiweb/ManishChouhan/DoctorAppoinmentDemo/app/src/main/res/drawable/stethoscope.png"
+    },
+    {
+        "merged": "/home/mobiweb/ManishChouhan/DoctorAppoinmentDemo/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_baseline_looks_6_24.png.flat",
+        "source": "/home/mobiweb/ManishChouhan/DoctorAppoinmentDemo/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_baseline_looks_6_24.png"
+    }
+]

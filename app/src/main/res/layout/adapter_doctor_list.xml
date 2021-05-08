@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_margin="10dp"
+    android:id="@+id/rvDoctorListRootLayout"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <androidx.cardview.widget.CardView
+        android:id="@+id/cardMsg"
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        app:cardCornerRadius="10dp">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <ImageView
+                android:layout_marginTop="5dp"
+                android:id="@+id/ivAvatar"
+                android:layout_width="100dp"
+                android:layout_height="match_parent"
+                android:src="@drawable/doc_avatar" />
+
+            <ImageView
+                android:id="@+id/ivBookmark"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:layout_marginRight="20dp"
+                android:layout_alignParentRight="true"
+                android:src="@drawable/bookmark"
+                app:tint="@color/teal_700" />
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/go_cashless"
+                android:paddingBottom="10dp"
+                android:textColor="@color/dark_gray"
+                android:layout_marginRight="10dp"
+                android:layout_alignParentBottom="true"
+                android:layout_alignParentRight="true"/>
+
+            <LinearLayout
+                android:layout_centerVertical="true"
+                android:layout_marginLeft="5dp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_toRightOf="@id/ivAvatar"
+                android:orientation="vertical">
+
+                <TextView
+                    android:id="@+id/tvDoctorNamr"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/dr_aditya"
+                    android:textColor="@color/black"
+                    android:textSize="20dp"
+                    android:textStyle="bold" />
+
+                <TextView
+                    android:id="@+id/tvDoctorSpeciality"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="5dp"
+                    android:text="@string/heart_specialty" />
+                <TextView
+                    android:id="@+id/tvDocCategory"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Banner"
+                    android:textColor="@color/dark_gray"
+                    android:layout_marginTop="5dp"
+                    android:textSize="15dp"/>
+            </LinearLayout>
+        </RelativeLayout>
+    </androidx.cardview.widget.CardView>
+
+</RelativeLayout>

@@ -1,0 +1,49 @@
+com/doctorappoinmentdemo/adapter/RvDoctorsListAdaptor.java
+ com.doctorappoinmentdemo.adapter.RvDoctorsListAdaptor
+ com.doctorappoinmentdemo.adapter.RvDoctorsListAdaptor$MyHolder
+com/doctorappoinmentdemo/utils/AppAlerts.java
+ com.doctorappoinmentdemo.utils.AppAlerts
+com/doctorappoinmentdemo/fragment/UserProfileFragment.java
+ com.doctorappoinmentdemo.fragment.UserProfileFragment
+ com.doctorappoinmentdemo.fragment.UserProfileFragment$1
+ com.doctorappoinmentdemo.fragment.UserProfileFragment$1$1
+com/doctorappoinmentdemo/utils/UserSession.java
+ com.doctorappoinmentdemo.utils.UserSession
+com/doctorappoinmentdemo/fragment/DummyFragment.java
+ com.doctorappoinmentdemo.fragment.DummyFragment
+com/doctorappoinmentdemo/activity/HomeActivity.java
+ com.doctorappoinmentdemo.activity.HomeActivity
+com/doctorappoinmentdemo/adapter/RvTimeSlotListAdaptor.java
+ com.doctorappoinmentdemo.adapter.RvTimeSlotListAdaptor
+ com.doctorappoinmentdemo.adapter.RvTimeSlotListAdaptor$MyHolder
+com/doctorappoinmentdemo/BuildConfig.java
+ com.doctorappoinmentdemo.BuildConfig
+com/doctorappoinmentdemo/fragment/TimeSlotTodayFragment.java
+ com.doctorappoinmentdemo.fragment.TimeSlotTodayFragment
+ com.doctorappoinmentdemo.fragment.TimeSlotTodayFragment$1
+ com.doctorappoinmentdemo.fragment.TimeSlotTodayFragment$2
+ com.doctorappoinmentdemo.fragment.TimeSlotTodayFragment$3
+ com.doctorappoinmentdemo.fragment.TimeSlotTodayFragment$3$1
+ com.doctorappoinmentdemo.fragment.TimeSlotTodayFragment$4
+com/doctorappoinmentdemo/roomdb/TimeSlotDaoAccess.java
+ com.doctorappoinmentdemo.roomdb.TimeSlotDaoAccess
+com/doctorappoinmentdemo/roomdb/DaoAccess.java
+ com.doctorappoinmentdemo.roomdb.DaoAccess
+com/doctorappoinmentdemo/roomdb/TimeSlotTodo.java
+ com.doctorappoinmentdemo.roomdb.TimeSlotTodo
+com/doctorappoinmentdemo/activity/LoginActivity.java
+ com.doctorappoinmentdemo.activity.LoginActivity
+com/doctorappoinmentdemo/roomdb/MyDatabase.java
+ com.doctorappoinmentdemo.roomdb.MyDatabase
+com/doctorappoinmentdemo/fragment/DoctorsListFragment.java
+ com.doctorappoinmentdemo.fragment.DoctorsListFragment
+ com.doctorappoinmentdemo.fragment.DoctorsListFragment$1
+ com.doctorappoinmentdemo.fragment.DoctorsListFragment$2
+com/doctorappoinmentdemo/activity/TimeSlotActivity.java
+ com.doctorappoinmentdemo.activity.TimeSlotActivity
+ com.doctorappoinmentdemo.activity.TimeSlotActivity$1
+ com.doctorappoinmentdemo.activity.TimeSlotActivity$ViewPagerAdapter
+com/doctorappoinmentdemo/roomdb/Todo.java
+ com.doctorappoinmentdemo.roomdb.Todo
+com/doctorappoinmentdemo/activity/SignUpActivity.java
+ com.doctorappoinmentdemo.activity.SignUpActivity

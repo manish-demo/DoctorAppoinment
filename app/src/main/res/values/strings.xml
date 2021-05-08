@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">DoctorAppoinmentDemo</string>
+    <string name="don_t_have_an_account">Dont have account ?</string>
+    <string name="login">Login</string>
+    <string name="enater_your_email">Enter your Email</string>
+    <string name="password">Enter your Password</string>
+    <string name="forget_pass">Forget Password ?</string>
+    <string name="social">Connect with us Social</string>
+    <string name="enter_your_name">Enter your Name</string>
+    <string name="enter_your_mobile_no">Enter your Mobile no.</string>
+    <string name="booking">Booking</string>
+    <string name="live">Live</string>
+    <string name="history">History</string>
+    <string name="profile">Profile</string>
+    <string name="welcome">Welcome !</string>
+    <string name="book_last_minute_appoinment_pay_your_doctor_sconsultation_fees_online_and_save_yourprescriptions_on_the_all_new_app">Book last minute appoinment pay your doctor\'sconsultation fees online, and save yourprescriptions on the all new </string>
+    <string name="heart_specialty">Heart Specialty</string>
+    <string name="dr_aditya">Dr. Aditya</string>
+    <string name="go_cashless">Go Cashless</string>
+    <string name="_7_45_am_8_00_pm">7:45 AM - 8:00 PM</string>
+    <string name="available">Available</string>
+</resources>
